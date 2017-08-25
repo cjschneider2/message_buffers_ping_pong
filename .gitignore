@@ -1,0 +1,4 @@
+# Idea crap
+.idea/
+# build folders
+cmake-build*
